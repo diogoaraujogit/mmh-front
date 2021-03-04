@@ -2,6 +2,7 @@
 
 ## Description
 In 2020 the world went through the tragic pandemic of COVID-19, where many families lost their relatives and their sources of income. With that in mind, we created a fundraising campaign with partner institutions to help these people. So we built a portal that helps in this process, providing functions such as registration of beneficiaries and total transparency about donations collected.
+**This repository is not the full version of the project, it is just one of the initial versions.**
 
 ## Tools and Technologies
 - React
