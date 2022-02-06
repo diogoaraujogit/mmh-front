@@ -22,10 +22,6 @@ https://diogoaraujo.netlify.app/
 
 ## Instructions
 
-#### `Netlify`
-A non-completed version of this application is hosted on Netlify with dummy data, to access it just use the link below: 
-https://quiz-react.netlify.app/
-
 #### `Run Local`
 You will not be able to run the application correctly because it needs a especial docker config and a specific API link in the .env file to receive the data. But if you want to run anyway, just follow the steps below.
 
